@@ -8,11 +8,11 @@ function Footer() {
       <Container>
         <Row>
           <Col className="text-center">
-                <div>
+            <div>
               <DiAndroid size={30} color="#4CAF50" />
             </div>
             <p>&copy; 2024 FRIMA S.A. Todos los derechos reservados.</p>
-            <p>Hecho por Juan Pablo Rivero en React - Clase 63395 - Primera Entrega.</p>
+            <p>Hecho por Juan Pablo Rivero en React - Clase 63395 - Segunda Entrega.</p>
           </Col>
         </Row>
       </Container>
